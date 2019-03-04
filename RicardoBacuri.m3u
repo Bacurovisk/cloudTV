@@ -1,0 +1,374 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Globo SP (BR)" tvg-name="Globo SP FHD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO",Globo SP FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10932.m3u8
+
+#EXTINF:-1 tvg-id="Globo RJ (BR)" tvg-name="Globo RJ FHD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO",Globo RJ FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10366.m3u8
+
+#EXTINF:-1 tvg-id="Combate (BR)" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/NewX8wG.png" group-title="CANAIS PREMIERES",Combate FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16866.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports (BR)" tvg-name="Band Sports FHD" tvg-logo="https://i.imgur.com/vP7OsoP.png" group-title="CANAIS DE ESPORTES",Band Sports FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6638.m3u8
+
+#EXTINF:-1 tvg-id="SporTV (BR)" tvg-name="SporTV FHD" tvg-logo="https://i.imgur.com/3H3R4pD.png" group-title="CANAIS SPORTV",SporTV FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6928.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 2 (BR)" tvg-name="SporTV 2 FHD" tvg-logo="https://i.imgur.com/V0k4CDo.png" group-title="CANAIS SPORTV",SporTV 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6942.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3 (BR)" tvg-name="SporTV 3 FHD" tvg-logo="https://i.imgur.com/nvCjg9X.png" group-title="CANAIS SPORTV",SporTV 3 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10371.m3u8
+
+#EXTINF:-1 tvg-id="ESPN (BR)" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/69VH6Ln.png" group-title="CANAIS ESPN",ESPN FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6932.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 2 (BR)" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/nARUlos.png" group-title="CANAIS ESPN",ESPN 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26155.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil (BR)" tvg-name="ESPN Brasil FHD" tvg-logo="https://i.imgur.com/ZkUIQ8X.png" group-title="CANAIS ESPN",ESPN Brasil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6958.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Extra (BR)" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/xWKhnHp.png" group-title="CANAIS ESPN",ESPN Extra FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/17077.m3u8
+
+#EXTINF:-1 tvg-id="AMC (BR)" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/4COmsGO.png" group-title="CANAIS FILMES & SÉRIES",AMC FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6970.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Action (BR)" tvg-name="Telecine Action FHD" tvg-logo="https://i.imgur.com/VNquqNg.png" group-title="CANAIS TELECINE",Telecine Action FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6922.m3u8
+
+#EXTINF:-1 tvg-id="HBO (BR)" tvg-name="HBO FHD" tvg-logo="https://i.imgur.com/1D3qjBG.png" group-title="CANAIS HBO",HBO FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6948.m3u8
+
+#EXTINF:-1 tvg-id="Max (BR)" tvg-name="Max FHD" tvg-logo="https://i.imgur.com/YnpInwD.png" group-title="CANAIS MAX",Max FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28641.m3u8
+
+#EXTINF:-1 tvg-id="Fox (BR)" tvg-name="Fox FHD" tvg-logo="https://i.imgur.com/pLuvR9y.png" group-title="CANAIS FOX",Fox FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6951.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet (BR)" tvg-name="Animal Planet FHD" tvg-logo="https://i.imgur.com/CqfEXXq.png" group-title="CANAIS DE DOCUMENTÁRIOS",Animal Planet FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6949.m3u8
+
+#EXTINF:-1 tvg-id="AeE (BR)" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/FYBSwoo.png" group-title="CANAIS DE VARIEDADES",A&E FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6971.m3u8
+
+#EXTINF:-1 tvg-id="Band News (BR)" tvg-name="Band News FHD" tvg-logo="https://i.imgur.com/My3GvmW.png" group-title="CANAIS DE NOTÍCIAS",Band News FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21127.m3u8
+
+#EXTINF:-1 tvg-id="BIS (BR)" tvg-name="Bis FHD" tvg-logo="https://i.imgur.com/VM7q5DP.png" group-title="CANAIS DE MÚSICAS",Bis FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21130.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil (BR)" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/kTGqlcs.png" group-title="CANAIS FILMES & SÉRIES",Canal Brasil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28628.m3u8
+
+#EXTINF:-1 tvg-id="AXN (BR)" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/eZobXtp.png" group-title="CANAIS FILMES & SÉRIES",AXN FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6969.m3u8
+
+#EXTINF:-1 tvg-id="Arte 1 (BR)" tvg-name="Arte 1 FHD" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="CANAIS DE VARIEDADES",Arte 1 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28654.m3u8
+
+#EXTINF:-1 tvg-id="Band SP (BR)" tvg-name="Band SP FHD" tvg-logo="https://i.imgur.com/ZOj6vCC.png" group-title="CANAIS ABERTOS",Band SP FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10869.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang (BR)" tvg-name="Boomerang FHD" tvg-logo="https://i.imgur.com/Isybq80.png" group-title="CANAIS INFANTIS",Boomerang FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6967.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://i.imgur.com/4ALxk31.png" group-title="CANAIS DE NOTÍCIAS",CNN International
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10852.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network (BR)" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/JzgTWuj.png" group-title="CANAIS INFANTIS",Cartoon Network FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6965.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="CANAIS FILMES & SÉRIES",Cine Sky
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10856.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax (BR)" tvg-name="Cinemax FHD" tvg-logo="https://i.imgur.com/dqCeBJF.png" group-title="CANAIS FILMES & SÉRIES",Cinemax FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28653.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central (BR)" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/BQ0xy45.png" group-title="CANAIS DE VARIEDADES",Comedy Central FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16865.m3u8
+
+#EXTINF:-1 tvg-id="Curta! (BR)" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/zHxRyDa.png" group-title="CANAIS DE VARIEDADES",Curta! FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28652.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Channel (BR)" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/bChBXOx.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6963.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Civilization (BR)" tvg-name="Discovery Civilization FHD" tvg-logo="https://i.imgur.com/4EH59qL.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Civilization FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16863.m3u8
+
+#EXTINF:-1 tvg-id="Discovery HeH (BR)" tvg-name="Discovery H&H FHD" tvg-logo="https://i.imgur.com/75NuNkN.png" group-title="CANAIS DE VARIEDADES",Discovery H&H FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6954.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids (BR)" tvg-name="Discovery Kids FHD" tvg-logo="https://i.imgur.com/ZC9sU87.png" group-title="CANAIS INFANTIS",Discovery Kids FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6956.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science (BR)" tvg-name="Discovery Science FHD" tvg-logo="https://i.imgur.com/SO9qM3S.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Science FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16860.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Theater (BR)" tvg-name="Discovery Theater FHD" tvg-logo="https://i.imgur.com/vG2lsl4.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Theater FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28651.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Turbo (BR)" tvg-name="Discovery Turbo FHD" tvg-logo="https://i.imgur.com/kTrySJZ.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery Turbo FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6961.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World (BR)" tvg-name="Discovery World FHD" tvg-logo="https://i.imgur.com/kz7cLP3.png" group-title="CANAIS DE DOCUMENTÁRIOS",Discovery World FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/17076.m3u8
+
+#EXTINF:-1 tvg-id="Disney (BR)" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/TAIJxBU.png" group-title="CANAIS INFANTIS",Disney Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10361.m3u8
+
+#EXTINF:-1 tvg-id="Disney Jr (BR)" tvg-name="Disney Junior FHD" tvg-logo="https://i.imgur.com/4NCrEbS.png" group-title="CANAIS INFANTIS",Disney Junior FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16857.m3u8
+
+#EXTINF:-1 tvg-id="E! (BR)" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/SBqcgIY.png" group-title="CANAIS DE VARIEDADES",E! FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28650.m3u8
+
+#EXTINF:-1 tvg-id="FX (BR)" tvg-name="FX FHD" tvg-logo="https://i.imgur.com/4YmmPKN.png" group-title="CANAIS FILMES & SÉRIES",FX FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28648.m3u8
+
+#EXTINF:-1 tvg-id="Fashion TV (PT)" tvg-name="Fashion TV Brazil FHD" tvg-logo="https://i.imgur.com/kpSGMha.png" group-title="CANAIS DE VARIEDADES",Fashion TV Brazil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/7058.m3u8
+
+#EXTINF:-1 tvg-id="Fish TV (BR)" tvg-name="Fish TV FHD" tvg-logo="https://i.imgur.com/jRPbrdl.png" group-title="CANAIS DE ESPORTES",Fish TV FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28649.m3u8
+
+#EXTINF:-1 tvg-id="Food Network (BR)" tvg-name="Food Network FHD" tvg-logo="https://i.imgur.com/W1Kv5nS.png" group-title="CANAIS DE VARIEDADES",Food Network FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16854.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life (BR)" tvg-name="Fox Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CANAIS FOX",Fox Life FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/17078.m3u8
+
+#EXTINF:-1 tvg-id="Fox Premium 1 (BR)" tvg-name="Fox Premium 1 FHD" tvg-logo="https://i.imgur.com/sKHzmY7.png" group-title="CANAIS FOX",Fox Premium 1 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26153.m3u8
+
+#EXTINF:-1 tvg-id="Fox Premium 2 (BR)" tvg-name="Fox Premium 2 FHD" tvg-logo="https://i.imgur.com/ixovniF.png" group-title="CANAIS FOX",Fox Premium 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21126.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports (BR)" tvg-name="Fox Sports FHD" tvg-logo="https://i.imgur.com/clrUXra.png" group-title="CANAIS DE ESPORTES",Fox Sports FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10364.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2 (BR)" tvg-name="Fox Sports 2 FHD" tvg-logo="https://i.imgur.com/NDrA2vP.png" group-title="CANAIS DE ESPORTES",Fox Sports 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10363.m3u8
+
+#EXTINF:-1 tvg-id="Futura (BR)" tvg-name="Futura FHD" tvg-logo="https://i.imgur.com/qdTKTOl.gif" group-title="CANAIS ABERTOS",Futura FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26151.m3u8
+
+#EXTINF:-1 tvg-id="GNT (BR)" tvg-name="GNT FHD" tvg-logo="https://i.imgur.com/v7DYTx9.png" group-title="CANAIS DE VARIEDADES",GNT FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28647.m3u8
+
+#EXTINF:-1 tvg-id="Globo AM (BR)" tvg-name="Globo AM. Manaus SD" tvg-logo="https://i.imgur.com/8R6IB6U.png" group-title="CANAIS GLOBO",Globo AM. Manaus SD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28726.m3u8
+
+#EXTINF:-1 tvg-id="Globo News (BR)" tvg-name="Globo News FHD" tvg-logo="https://i.imgur.com/qduM5KS.png" group-title="CANAIS DE NOTÍCIAS",Globo News FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21129.m3u8
+
+#EXTINF:-1 tvg-id="H2 (BR)" tvg-name="H2 FHD" tvg-logo="https://i.imgur.com/8iu9J8C.png" group-title="CANAIS DE DOCUMENTÁRIOS",H2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/7056.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 (BR)" tvg-name="HBO 2 FHD" tvg-logo="https://i.imgur.com/8vTA0zi.png" group-title="CANAIS HBO",HBO 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6953.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family (BR)" tvg-name="HBO Family FHD" tvg-logo="https://i.imgur.com/7XflGRo.png" group-title="CANAIS HBO",HBO Family FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28646.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus (BR)" tvg-name="HBO Plus FHD" tvg-logo="https://i.imgur.com/VT0X6dm.png" group-title="CANAIS HBO",HBO Plus FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28645.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature (BR)" tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/n89Ncal.png" group-title="CANAIS HBO",HBO Signature FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28644.m3u8
+
+#EXTINF:-1 tvg-id="ID - Investigação Discovery (BR)" tvg-name="Investigação Discovery FHD" tvg-logo="https://i.imgur.com/VeXxv2x.png" group-title="CANAIS DE DOCUMENTÁRIOS",Investigação Discovery FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28643.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime (BR)" tvg-name="Lifetime FHD" tvg-logo="https://i.imgur.com/BJZrEHb.png" group-title="CANAIS DE VARIEDADES",Lifetime FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28642.m3u8
+
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="MTV FHD" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="CANAIS DE MÚSICAS",MTV FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28640.m3u8
+
+#EXTINF:-1 tvg-id="MTV (BR)" tvg-name="MTV Live FHD" tvg-logo="https://i.imgur.com/qpV1u04.png" group-title="CANAIS DE MÚSICAS",MTV Live FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28639.m3u8
+
+#EXTINF:-1 tvg-id="Mais Globosat (BR)" tvg-name="Mais Globosat FHD" tvg-logo="https://i.imgur.com/TIviYnz.png" group-title="CANAIS DE VARIEDADES",Mais Globosat FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28629.m3u8
+
+#EXTINF:-1 tvg-id="Max Prime (BR)" tvg-name="Max Prime FHD" tvg-logo="https://i.imgur.com/mICIJR1.png" group-title="CANAIS MAX",Max Prime FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6941.m3u8
+
+#EXTINF:-1 tvg-id="MAX UP (BR)" tvg-name="Max Up FHD" tvg-logo="https://i.imgur.com/XLE3tFj.png" group-title="CANAIS MAX",Max Up FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/17081.m3u8
+
+#EXTINF:-1 tvg-id="Megapix (BR)" tvg-name="Megapix FHD" tvg-logo="https://i.imgur.com/612VRPR.png" group-title="CANAIS FILMES & SÉRIES",Megapix FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6918.m3u8
+
+#EXTINF:-1 tvg-id="Multishow (BR)" tvg-name="Multishow FHD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="CANAIS DE MÚSICAS",Multishow FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16841.m3u8
+
+#EXTINF:-1 tvg-id="Music Box Brazil (BR)" tvg-name="Music Box Brasil FHD" tvg-logo="http://i.imgur.com/O1jqavN.png" group-title="CANAIS DE MÚSICAS",Music Box Brasil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28638.m3u8
+
+#EXTINF:-1 tvg-id="Music Box Brazil (BR)" tvg-name="Music Box Brazil FHD" tvg-logo="https://i.imgur.com/vbm342j.png" group-title="CANAIS DE MÚSICAS",Music Box Brazil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/7055.m3u8
+
+#EXTINF:-1 tvg-id="NHK (BR)" tvg-name="NHK FHD" tvg-logo="https://i.imgur.com/kolYBcb.png" group-title="CANAIS DE NOTÍCIAS",NHK FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6524.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic (BR)" tvg-name="Nat Geo FHD" tvg-logo="https://i.imgur.com/RsQeLPC.png" group-title="CANAIS DE DOCUMENTÁRIOS",Nat Geo FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6945.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo Kids (BR)" tvg-name="Nat Geo Kids FHD" tvg-logo="https://i.imgur.com/BtJZzXn.png" group-title="CANAIS INFANTIS",Nat Geo Kids FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10367.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Wild (BR)" tvg-name="Nat Geo Wild FHD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="CANAIS DE DOCUMENTÁRIOS",Nat Geo Wild FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10368.m3u8
+
+#EXTINF:-1 tvg-id="Nick Jr (BR)" tvg-name="Nick JR FHD" tvg-logo="https://i.imgur.com/raQSfvK.png" group-title="CANAIS INFANTIS",Nick JR FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6936.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon (BR)" tvg-name="Nickelodeon FHD" tvg-logo="https://i.imgur.com/BuRTIdy.png" group-title="CANAIS INFANTIS",Nickelodeon FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21125.m3u8
+
+#EXTINF:-1 tvg-id="OFF (BR)" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/883Enxv.png" group-title="CANAIS DE ESPORTES",OFF FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16833.m3u8
+
+#EXTINF:-1 tvg-id="Paramount (BR)" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/JNiGC5M.png" group-title="CANAIS FILMES & SÉRIES",Paramount Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16832.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PlayKids FHD" tvg-logo="https://i.imgur.com/YAnK7K6.jpg" group-title="CANAIS INFANTIS",PlayKids FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26149.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes (BR)" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6938.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 2 (BR)" tvg-name="Premiere Clubes 2 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 2 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21134.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 3 (BR)" tvg-name="Premiere Clubes 3 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 3 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6921.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 4 (BR)" tvg-name="Premiere Clubes 4 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 4 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/15376.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 5 (BR)" tvg-name="Premiere Clubes 5 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 5 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21133.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 6 (BR)" tvg-name="Premiere Clubes 6 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 6 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21132.m3u8
+
+#EXTINF:-1 tvg-id="Premiere 7 (BR)" tvg-name="Premiere Clubes 7 FHD" tvg-logo="https://i.imgur.com/PqB3YPe.png" group-title="CANAIS PREMIERES",Premiere Clubes 7 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21131.m3u8
+
+#EXTINF:-1 tvg-id="Prime Box Brazil (BR)" tvg-name="Prime Box Brasil FHD" tvg-logo="https://i.imgur.com/vbm342j.png" group-title="CANAIS DE MÚSICAS",Prime Box Brasil FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28637.m3u8
+
+#EXTINF:-1 tvg-id="Rede Record AM (BR)" tvg-name="Record Amazonas SD" tvg-logo="http://i.imgur.com/oC9BsVv.png" group-title="CANAIS RECORD TV",Record Amazonas SD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/10709.m3u8
+
+#EXTINF:-1 tvg-id="Record News (BR)" tvg-name="Record News FHD" tvg-logo="https://i.imgur.com/DOJOTuF.png" group-title="CANAIS DE NOTÍCIAS",Record News FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6940.m3u8
+
+#EXTINF:-1 tvg-id="Rede TV (BR)" tvg-name="Rede TV FHD" tvg-logo="https://i.imgur.com/hjNyDIx.png" group-title="CANAIS ABERTOS",Rede TV FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28626.m3u8
+
+#EXTINF:-1 tvg-id="SBT (BR)" tvg-name="SBT FHD" tvg-logo="https://i.imgur.com/p8KJ6bS.png" group-title="CANAIS ABERTOS",SBT FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/21135.m3u8
+
+#EXTINF:-1 tvg-id="Sony (BR)" tvg-name="Sony FHD" tvg-logo="https://i.imgur.com/mRT2Yej.jpg" group-title="CANAIS FILMES & SÉRIES",Sony FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16870.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal (BR)" tvg-name="Studio Universal FHD" tvg-logo="https://i.imgur.com/Sbws5zu.png" group-title="CANAIS FILMES & SÉRIES",Studio Universal FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6929.m3u8
+
+#EXTINF:-1 tvg-id="Syfy (BR)" tvg-name="SyFy FHD" tvg-logo="https://i.imgur.com/FvKsTIo.png" group-title="CANAIS FILMES & SÉRIES",SyFy FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6930.m3u8
+
+#EXTINF:-1 tvg-id="TBS (BR)" tvg-name="TBS FHD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="CANAIS FILMES & SÉRIES",TBS FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28636.m3u8
+
+#EXTINF:-1 tvg-id="TLC (BR)" tvg-name="TLC FHD" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="CANAIS DE VARIEDADES",TLC FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28635.m3u8
+
+#EXTINF:-1 tvg-id="TNT (BR)" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/W87ww2P.png" group-title="CANAIS FILMES & SÉRIES",TNT FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/7050.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series (BR)" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/slZQxUh.png" group-title="CANAIS FILMES & SÉRIES",TNT Series FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28634.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura (BR)" tvg-name="TV Cultura FHD" tvg-logo="https://i.imgur.com/Uilnitm.png" group-title="CANAIS ABERTOS",TV Cultura FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28627.m3u8
+
+#EXTINF:-1 tvg-id="TV Ra Tim Bum (BR)" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://i.imgur.com/7E6Oxff.png" group-title="CANAIS INFANTIS",TV Ra Tim Bum FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28632.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult (BR)" tvg-name="Telecine Cult FHD" tvg-logo="https://i.imgur.com/xYb2TAf.png" group-title="CANAIS TELECINE",Telecine Cult FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6926.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Fun (BR)" tvg-name="Telecine Fun FHD" tvg-logo="https://i.imgur.com/U1bMyBf.png" group-title="CANAIS TELECINE",Telecine Fun FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6923.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Pipoca (BR)" tvg-name="Telecine Pipoca FHD" tvg-logo="https://i.imgur.com/TIlXJSq.png" group-title="CANAIS TELECINE",Telecine Pipoca FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6925.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Premium (BR)" tvg-name="Telecine Premium FHD" tvg-logo="https://i.imgur.com/9JmVPYR.png" group-title="CANAIS TELECINE",Telecine Premium FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6927.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Touch (BR)" tvg-name="Telecine Touch FHD" tvg-logo="https://i.imgur.com/G3mRvDd.png" group-title="CANAIS TELECINE",Telecine Touch FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6924.m3u8
+
+#EXTINF:-1 tvg-id="History Channel" tvg-name="The History Channel FHD" tvg-logo="https://i.imgur.com/mnhGuxB.png" group-title="CANAIS DE DOCUMENTÁRIOS",The History Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16844.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast (BR)" tvg-name="Tooncast FHD" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="CANAIS INFANTIS",Tooncast FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/16807.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel (BR)" tvg-name="Universal Channel FHD" tvg-logo="https://i.imgur.com/bfDQkpu.png" group-title="CANAIS FILMES & SÉRIES",Universal Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6919.m3u8
+
+#EXTINF:-1 tvg-id="VH1 (BR)" tvg-name="VH1 FHD" tvg-logo="http://images.mi.tv/channels/br_vh1_m.png" group-title="CANAIS DE MÚSICAS",VH1 FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28631.m3u8
+
+#EXTINF:-1 tvg-id="VH1 Mega Hits (BR)" tvg-name="VH1 Mega Hits FHD" tvg-logo="https://i.imgur.com/4klSLj1.png" group-title="CANAIS DE MÚSICAS",VH1 Mega Hits FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28677.m3u8
+
+#EXTINF:-1 tvg-id="Warner Channel (BR)" tvg-name="Warner Channel FHD" tvg-logo="https://i.imgur.com/NUrsG5a.png" group-title="CANAIS FILMES & SÉRIES",Warner Channel FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/6917.m3u8
+
+#EXTINF:-1 tvg-id="Woohoo (BR)" tvg-name="Woohoo FHD" tvg-logo="https://i.imgur.com/mC81tyR.png" group-title="CANAIS DE VARIEDADES",Woohoo FHD
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Um Show" tvg-logo="https://i.imgur.com/JgPUgYv.png" group-title="DESENHOS 24 HS",Apenas Um Show
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26380.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="As Trapalhadas do Flapjack" tvg-logo="https://media.fstatic.com/mcx_sCIefynd1O9XM-T5jAZHchM=/fit-in/290x478/smart/media/movies/covers/2012/01/32adafb3877fcdc086ffbc7e128494e1.jpg" group-title="DESENHOS 24 HS",As Trapalhadas do Flapjack
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26514.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eu, a Patroa e as Crianças" tvg-logo="https://i.imgur.com/xFijENo.png" group-title="SÉRIES 24 HS",Eu, a Patroa e as Crianças
+http://sv1.brothersvod.com:80/FIVETV2019/xQyRFyGBJARyjkut/20020.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="" group-title="DESENHOS 24 HS",FUTURAMA
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28665.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Family Guy" tvg-logo="" group-title="DESENHOS 24 HS",Family Guy
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28667.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hora De Aventura" tvg-logo="https://i.imgur.com/J4pLziW.png" group-title="DESENHOS 24 HS",Hora De Aventura
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/26389.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau" tvg-logo="https://i.imgur.com/rgELnJN.png" group-title="DESENHOS 24 HS",Pica-Pau
+http://sv1.brothersvod.com:2451/live/FIVETV2019/xQyRFyGBJARyjkut/13372.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rick and Morty" tvg-logo="https://i.imgur.com/3I8uCdN.png" group-title="DESENHOS 24 HS",Rick and Morty
+http://sv1.brothersvod.com:2451/FIVETV2019/xQyRFyGBJARyjkut/17449.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="South Parks" tvg-logo="" group-title="DESENHOS 24 HS",South Parks
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28662.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Big Bang Theory" tvg-logo="https://i.imgur.com/Lqyhvfu.png" group-title="SÉRIES 24 HS",The Big Bang Theory
+http://sv1.brothersvod.com:2451/FIVETV2019/xQyRFyGBJARyjkut/14123.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="http://br.web.img2.acsta.net/c_216_288/pictures/14/02/04/14/08/054280.jpg" group-title="SÉRIES 24 HS",Todo Mundo Odeia o Cris
+http://1.fivetv5.com:80/live/RicardoBacuri/4aXttfYMRb/28660.m3u8
