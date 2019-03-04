@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Team Cloud" generator-info-url="https://teamcloud.com.br">
+<channel id="Telecine Action (BR)">
+      <display-name lang="pt">Telecine Action</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+    <channel id="Telecine Cult (BR)">
+      <display-name lang="pt">Telecine Cult</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+    <channel id="Telecine Fun (BR)">
+      <display-name lang="pt">Telecine Fun</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+    <channel id="Telecine Pipoca (BR)">
+      <display-name lang="pt">Telecine Pipoca</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+    <channel id="Telecine Premium (BR)">
+      <display-name lang="pt">Telecine Premium</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+    <channel id="Telecine Touch (BR)">
+      <display-name lang="pt">Telecine Touch</display-name>
+      <url>https://viaepg.ga</url>
+    </channel>
+</tv>
